@@ -3,6 +3,7 @@ SpendSmart is a web-based intelligent expense management and product price compa
 The system integrates expense tracking and price comparison features in one platform, using smart recommendations to help users save money.
 
 ~Key Features:
+
 --Expense Tracking
 
 Users can add, edit, or delete daily expenses, including date, category, amount, note, and payment method.
